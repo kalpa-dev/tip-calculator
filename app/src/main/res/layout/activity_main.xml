@@ -40,7 +40,7 @@
                 android:autofillHints=""
                 android:hint="@string/cost_field_placeholder"
                 android:inputType="number"
-                android:textColorHint="#78909C" />
+                android:textColorHint="#757575" />
 
         </com.google.android.material.textfield.TextInputLayout>
 
